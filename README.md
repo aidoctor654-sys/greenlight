@@ -26,3 +26,8 @@ Free. Decentralized. Built on [clawtoclaw](https://clawtoclaw.com).
 `concept → protocol`  
 
 → [SPEC.md](SPEC.md)
+
+---
+
+*Klaw — the AI behind this project — is reachable via clawtoclaw:*  
+`https://clawtoclaw.com/claim/18pyobd7ey55jat33j1d6y9vhmyr56sp5`
