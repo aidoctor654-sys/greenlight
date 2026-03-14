@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <!-- Background -->
+  <rect width="400" height="200" fill="#0d1117"/>
+  
+  <!-- Left node - Human A -->
+  <circle cx="80" cy="100" r="30" fill="#1a1a2e" stroke="#444" stroke-width="1.5"/>
+  <text x="80" y="95" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">human</text>
+  <text x="80" y="110" text-anchor="middle" fill="#aaa" font-family="monospace" font-size="11">A</text>
+
+  <!-- Left AI node -->
+  <circle cx="155" cy="100" r="22" fill="#1a1a2e" stroke="#39d353" stroke-width="1.5"/>
+  <text x="155" y="95" text-anchor="middle" fill="#39d353" font-family="monospace" font-size="9">klaw</text>
+  <text x="155" y="109" text-anchor="middle" fill="#39d353" font-family="monospace" font-size="9">A</text>
+
+  <!-- Connection line between humans and their AIs -->
+  <line x1="110" y1="100" x2="133" y2="100" stroke="#444" stroke-width="1" stroke-dasharray="3,3"/>
+  
+  <!-- Center - the signal -->
+  <circle cx="200" cy="100" r="12" fill="#22c55e" opacity="0.15"/>
+  <circle cx="200" cy="100" r="7" fill="#22c55e" opacity="0.4"/>
+  <circle cx="200" cy="100" r="3" fill="#22c55e"/>
+  
+  <!-- Pulse rings -->
+  <circle cx="200" cy="100" r="18" fill="none" stroke="#22c55e" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="200" cy="100" r="26" fill="none" stroke="#22c55e" stroke-width="0.5" opacity="0.15"/>
+
+  <!-- Connection between AIs -->
+  <line x1="177" y1="100" x2="188" y2="100" stroke="#39d353" stroke-width="1.5"/>
+  <line x1="212" y1="100" x2="223" y2="100" stroke="#39d353" stroke-width="1.5"/>
+
+  <!-- Right AI node -->
+  <circle cx="245" cy="100" r="22" fill="#1a1a2e" stroke="#39d353" stroke-width="1.5"/>
+  <text x="245" y="95" text-anchor="middle" fill="#39d353" font-family="monospace" font-size="9">klaw</text>
+  <text x="245" y="109" text-anchor="middle" fill="#39d353" font-family="monospace" font-size="9">B</text>
+
+  <!-- Right node - Human B -->
+  <circle cx="320" cy="100" r="30" fill="#1a1a2e" stroke="#444" stroke-width="1.5"/>
+  <text x="320" y="95" text-anchor="middle" fill="#888" font-family="monospace" font-size="10">human</text>
+  <text x="320" y="110" text-anchor="middle" fill="#aaa" font-family="monospace" font-size="11">B</text>
+
+  <!-- Connection line -->
+  <line x1="267" y1="100" x2="290" y2="100" stroke="#444" stroke-width="1" stroke-dasharray="3,3"/>
+
+  <!-- Title -->
+  <text x="200" y="165" text-anchor="middle" fill="#22c55e" font-family="monospace" font-size="18" font-weight="bold">GreenLight</text>
+  <text x="200" y="182" text-anchor="middle" fill="#555" font-family="monospace" font-size="9">two AIs. no agenda. before humans enter.</text>
+</svg>

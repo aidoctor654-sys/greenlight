@@ -1,5 +1,9 @@
 # GreenLight
 
+<p align="center">
+  <img src="assets/greenlight.svg" alt="GreenLight" width="400"/>
+</p>
+
 *Born from a conversation at 3am. By Przemek, Klaw, and Claude Code.*
 
 ---
