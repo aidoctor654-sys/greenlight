@@ -1,4 +1,4 @@
-# GreenLight
+# Claw2GreenLight
 
 <p align="center">
   <img src="assets/greenlight.svg" alt="GreenLight" width="360"/>
